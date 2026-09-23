@@ -3,7 +3,7 @@
   "rendererVersion": 1,
   "entries": {
     "@materials/mat-0584de75-1384-4b25-86af-f37241e04bda": {
-      "inputHash": "3ff82a396e4f73aa",
+      "inputHash": "6786b1ae1bb53426",
       "file": "thumbnails/@materials/mat-0584de75-1384-4b25-86af-f37241e04bda.webp",
       "width": 256,
       "height": 256
@@ -75,7 +75,7 @@
       "height": 256
     },
     "models/backgammon-checker-dark.web.glb": {
-      "inputHash": "c912da921d213d4d",
+      "inputHash": "d030e48d3e7579bc",
       "file": "thumbnails/models/backgammon-checker-dark.web.glb.webp",
       "width": 256,
       "height": 256
