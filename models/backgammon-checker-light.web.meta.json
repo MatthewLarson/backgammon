@@ -1,0 +1,18 @@
+{
+  "materialSlots": {
+    "BGM_LeatherWhite": "mat-94716e7c-3f22-42c1-b040-864cfdf4ab8a",
+    "BGM_Brass": "mat-cd9465d1-dce9-46bc-9edf-80cd5a2633f9"
+  },
+  "collider": {
+    "mode": "custom",
+    "entries": [
+      {
+        "id": "collider-1",
+        "shape": "cylinder",
+        "radius": 0.059166666120290756,
+        "height": 0.029999999329447746,
+        "axis": 1
+      }
+    ]
+  }
+}

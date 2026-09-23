@@ -1,0 +1,25 @@
+{
+  "kind": "board",
+  "locked": true,
+  "materialSlots": {
+    "BGM_Walnut": "mat-7be1a748-c597-435d-ad2f-54177950d318",
+    "BGM_Field": "mat-b52862b8-8ea9-43be-94bb-a3fe689d64b3",
+    "BGM_Darkpoint": "mat-981c49b6-f61b-4138-a64e-22bc3558433f",
+    "BGM_Lightpoint": "mat-382158ba-149d-481c-b2b4-5f8433f45a1a",
+    "BGM_Brass": "mat-c7f6630d-6511-45e6-9224-9dde35eab04a"
+  },
+  "lightmapStatic": true,
+  "friction": 0.6,
+  "restitution": 0.25,
+  "collider": {
+    "mode": "custom",
+    "entries": [
+      {
+        "id": "collider-1",
+        "shape": "mesh",
+        "source": "baked",
+        "bakedPath": "models/backgammon-board.collider.glb"
+      }
+    ]
+  }
+}
