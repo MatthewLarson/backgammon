@@ -68,6 +68,42 @@
       "width": 256,
       "height": 256
     },
+    "media/cover-thumb.webp": {
+      "inputHash": "8924a6278f06c88f",
+      "file": "thumbnails/media/cover-thumb.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "media/cover.webp": {
+      "inputHash": "8e9f6c43463e27c0",
+      "file": "thumbnails/media/cover.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "media/screenshot-0.webp": {
+      "inputHash": "e116445a185da8e3",
+      "file": "thumbnails/media/screenshot-0.webp.webp",
+      "width": 256,
+      "height": 144
+    },
+    "media/screenshot-1.webp": {
+      "inputHash": "6d06e2a8a45b816f",
+      "file": "thumbnails/media/screenshot-1.webp.webp",
+      "width": 256,
+      "height": 144
+    },
+    "media/screenshot-2.webp": {
+      "inputHash": "e602b08de940b664",
+      "file": "thumbnails/media/screenshot-2.webp.webp",
+      "width": 256,
+      "height": 144
+    },
+    "media/screenshot-3.webp": {
+      "inputHash": "4a6ddce6b3643424",
+      "file": "thumbnails/media/screenshot-3.webp.webp",
+      "width": 256,
+      "height": 144
+    },
     "models/backgammon-board.web.glb": {
       "inputHash": "4c053f99c08e4dd9",
       "file": "thumbnails/models/backgammon-board.web.glb.webp",

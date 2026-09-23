@@ -1,8 +1,12 @@
 # Backgammon
 
-**Backgammon** is a game for [DiceyTable](https://diceytable.com) — a free physics tabletop you play in your browser with friends, with no download required.
+**Backgammon** is a Board Game game for [DiceyTable](https://diceytable.com) — a free physics tabletop you play in your browser with friends, with no download required.
 
 **[Play Backgammon on DiceyTable](https://diceytable.com/games/backgammon)**
+
+---
+
+Backgammon
 
 ---
 

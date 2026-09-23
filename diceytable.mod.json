@@ -5,10 +5,15 @@
   "version": "0.1.0",
   "type": "game-pack",
   "entry": {
-    "setup": "setup.json",
-    "script": "scripts/main.js"
+    "setup": "setup.json"
   },
   "assets": [
+    "media/cover-thumb.webp",
+    "media/cover.webp",
+    "media/screenshot-0.webp",
+    "media/screenshot-1.webp",
+    "media/screenshot-2.webp",
+    "media/screenshot-3.webp",
     "models/backgammon-board.collider.glb",
     "models/backgammon-board.web.glb",
     "models/backgammon-board.web.meta.json",
@@ -47,7 +52,16 @@
     ]
   },
   "license": "MIT",
-  "tags": [],
+  "tags": [
+    "backgammon",
+    "checkers",
+    "dice",
+    "board-game",
+    "classic",
+    "family",
+    "strategy",
+    "luck"
+  ],
   "credits": [
     {
       "id": "credit-88c3c18a-7715-4647-9ec2-62487bc74788",
@@ -87,12 +101,85 @@
         "acceptedAt": "2026-09-23T20:00:21.399Z",
         "signedName": "Matt Larson"
       }
+    },
+    {
+      "id": "credit-ce77ffb6-1448-44ea-8939-c3e9c6daae50",
+      "paths": [
+        "media/cover-thumb.webp",
+        "media/cover.webp"
+      ],
+      "origin": "own-work",
+      "recordedAt": "2026-09-23T20:22:45.868Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-23T20:22:45.868Z",
+        "signedName": "Matt Larson"
+      }
+    },
+    {
+      "id": "credit-7e033082-b48f-4672-9b8e-38e28f521519",
+      "paths": [
+        "media/screenshot-0.webp",
+        "media/screenshot-1.webp",
+        "media/screenshot-2.webp",
+        "media/screenshot-3.webp"
+      ],
+      "origin": "own-work",
+      "recordedAt": "2026-09-23T20:23:22.715Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-23T20:23:22.715Z",
+        "signedName": "Matt Larson"
+      }
     }
   ],
   "dice": [
     {
       "preset": "die-d6",
       "defaultCount": 2
+    }
+  ],
+  "slug": "backgammon",
+  "summary": "Backgammon",
+  "description": "Backgammon",
+  "category": "board-game",
+  "coverImage": "media/cover.webp",
+  "screenshots": [
+    {
+      "path": "media/screenshot-0.webp",
+      "crop": {
+        "x": 0,
+        "y": 0.09999999999999987,
+        "w": 1,
+        "h": 0.9000000000000001
+      }
+    },
+    {
+      "path": "media/screenshot-1.webp",
+      "crop": {
+        "x": 0,
+        "y": 0.09999999999999987,
+        "w": 1,
+        "h": 0.9000000000000001
+      }
+    },
+    {
+      "path": "media/screenshot-2.webp",
+      "crop": {
+        "x": 0,
+        "y": 0,
+        "w": 1,
+        "h": 0.9000000000000001
+      }
+    },
+    {
+      "path": "media/screenshot-3.webp",
+      "crop": {
+        "x": 0,
+        "y": 0.09999999999999987,
+        "w": 1,
+        "h": 0.9000000000000001
+      }
     }
   ]
 }
