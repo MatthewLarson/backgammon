@@ -1,0 +1,51 @@
+{
+  "schemaVersion": "1.0",
+  "id": "backgammon",
+  "name": "Backgammon",
+  "version": "0.1.0",
+  "type": "game-pack",
+  "entry": {
+    "setup": "setup.json",
+    "script": "scripts/main.js"
+  },
+  "assets": [
+    "models/backgammon-board.collider.glb",
+    "models/backgammon-board.web.glb",
+    "models/backgammon-board.web.meta.json",
+    "models/backgammon-checker-dark.web.glb",
+    "models/backgammon-checker-dark.web.meta.json",
+    "models/backgammon-checker-light.web.glb",
+    "models/backgammon-checker-light.web.meta.json",
+    "models/backgammon-doubling-cube.web.glb",
+    "models/backgammon-doubling-cube.web.meta.json",
+    "textures/backgammon-board-web/basecolor-88da0583.webp",
+    "textures/backgammon-board-web/bgm-darkpoint-basecolor-510f4cd3.webp",
+    "textures/backgammon-board-web/bgm-field-basecolor-ea4f7b21.webp",
+    "textures/backgammon-board-web/c3-walnut-wood-01-normal-300594b0.webp",
+    "textures/backgammon-board-web/c3-walnut-wood-01-rough-a51c2ff3.webp",
+    "textures/backgammon-board-web/c8-wood-05-diff-37c67fc0.webp",
+    "textures/backgammon-board-web/c8-wood-05-norm-1f168eab.webp",
+    "textures/backgammon-board-web/c8-wood-05-rough-a2f4e8be.webp",
+    "textures/backgammon-board-web/metallic-roughness-534cea53.webp",
+    "textures/backgammon-board-web/normal-59e9cf22.webp",
+    "textures/backgammon-board-web/substance-leather-calf-grain-metallic-substance-leather-calf-grain-roughness-8b4279b1.webp",
+    "textures/backgammon-board-web/substance-leather-calf-grain-normal-236ef027.webp",
+    "textures/backgammon-checker-dark-web/bgm-leatherblack-basecolor-b095b64c.webp",
+    "textures/backgammon-checker-dark-web/bl-leather-metallic-jpg-bl-leather-roughness-jpg-8b453286.webp",
+    "textures/backgammon-checker-dark-web/bl-leather-normal-278c6c8e.webp",
+    "textures/backgammon-checker-light-web/bgm-leatherwhite-basecolor-c4c97943.webp",
+    "textures/backgammon-checker-light-web/substance-leather-calf-grain-metallic-jpg-substance-leather-calf-grain-roughness-jpg-e4d3a42d.webp",
+    "textures/backgammon-checker-light-web/substance-leather-calf-grain-normal-3fc76f0c.webp"
+  ],
+  "compatibility": {
+    "engine": ">=0.1 <1.0"
+  },
+  "capabilities": {
+    "version": "1",
+    "allowed": [
+      "log"
+    ]
+  },
+  "license": "MIT",
+  "tags": []
+}

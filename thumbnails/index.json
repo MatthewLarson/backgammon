@@ -1,0 +1,204 @@
+{
+  "version": 1,
+  "rendererVersion": 1,
+  "entries": {
+    "@materials/mat-0584de75-1384-4b25-86af-f37241e04bda": {
+      "inputHash": "3ff82a396e4f73aa",
+      "file": "thumbnails/@materials/mat-0584de75-1384-4b25-86af-f37241e04bda.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-2ab69b5b-4f78-4845-b2f7-31d0f8bb5899": {
+      "inputHash": "d1e6e51d513ba5dd",
+      "file": "thumbnails/@materials/mat-2ab69b5b-4f78-4845-b2f7-31d0f8bb5899.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-382158ba-149d-481c-b2b4-5f8433f45a1a": {
+      "inputHash": "9b1f8c5b611803ff",
+      "file": "thumbnails/@materials/mat-382158ba-149d-481c-b2b4-5f8433f45a1a.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-49ddc2fc-c71c-4883-b0f2-b9a7d5a0a936": {
+      "inputHash": "bf84f9e54f4fcb90",
+      "file": "thumbnails/@materials/mat-49ddc2fc-c71c-4883-b0f2-b9a7d5a0a936.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-758dc82d-0449-466c-bc15-e6949619bfcd": {
+      "inputHash": "ee00322fa1dd6804",
+      "file": "thumbnails/@materials/mat-758dc82d-0449-466c-bc15-e6949619bfcd.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-7be1a748-c597-435d-ad2f-54177950d318": {
+      "inputHash": "8af35ad69de10913",
+      "file": "thumbnails/@materials/mat-7be1a748-c597-435d-ad2f-54177950d318.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-94716e7c-3f22-42c1-b040-864cfdf4ab8a": {
+      "inputHash": "ae83bc2c91384d14",
+      "file": "thumbnails/@materials/mat-94716e7c-3f22-42c1-b040-864cfdf4ab8a.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-981c49b6-f61b-4138-a64e-22bc3558433f": {
+      "inputHash": "9d5d74cbd59fb383",
+      "file": "thumbnails/@materials/mat-981c49b6-f61b-4138-a64e-22bc3558433f.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-b52862b8-8ea9-43be-94bb-a3fe689d64b3": {
+      "inputHash": "9c17e47067170ab9",
+      "file": "thumbnails/@materials/mat-b52862b8-8ea9-43be-94bb-a3fe689d64b3.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-c7f6630d-6511-45e6-9224-9dde35eab04a": {
+      "inputHash": "bf84f9e54f4fcb90",
+      "file": "thumbnails/@materials/mat-c7f6630d-6511-45e6-9224-9dde35eab04a.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-cd9465d1-dce9-46bc-9edf-80cd5a2633f9": {
+      "inputHash": "bf84f9e54f4fcb90",
+      "file": "thumbnails/@materials/mat-cd9465d1-dce9-46bc-9edf-80cd5a2633f9.webp",
+      "width": 256,
+      "height": 256
+    },
+    "models/backgammon-board.web.glb": {
+      "inputHash": "3a92ce2b27f80df3",
+      "file": "thumbnails/models/backgammon-board.web.glb.webp",
+      "width": 256,
+      "height": 256
+    },
+    "models/backgammon-checker-dark.web.glb": {
+      "inputHash": "2d955bf72cbe7716",
+      "file": "thumbnails/models/backgammon-checker-dark.web.glb.webp",
+      "width": 256,
+      "height": 256
+    },
+    "models/backgammon-checker-light.web.glb": {
+      "inputHash": "5aa769505a33cfca",
+      "file": "thumbnails/models/backgammon-checker-light.web.glb.webp",
+      "width": 256,
+      "height": 256
+    },
+    "models/backgammon-doubling-cube.web.glb": {
+      "inputHash": "b6d4896872d7cabc",
+      "file": "thumbnails/models/backgammon-doubling-cube.web.glb.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/backgammon-board-web/basecolor-88da0583.webp": {
+      "inputHash": "1064c4392fec89f7",
+      "file": "thumbnails/textures/backgammon-board-web/basecolor-88da0583.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/backgammon-board-web/bgm-darkpoint-basecolor-510f4cd3.webp": {
+      "inputHash": "9c8e5a5b8dfc90a8",
+      "file": "thumbnails/textures/backgammon-board-web/bgm-darkpoint-basecolor-510f4cd3.webp.webp",
+      "width": 237,
+      "height": 256
+    },
+    "textures/backgammon-board-web/bgm-field-basecolor-ea4f7b21.webp": {
+      "inputHash": "18c1fcd51e489982",
+      "file": "thumbnails/textures/backgammon-board-web/bgm-field-basecolor-ea4f7b21.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/backgammon-board-web/c3-walnut-wood-01-normal-300594b0.webp": {
+      "inputHash": "65a74c66d65f0141",
+      "file": "thumbnails/textures/backgammon-board-web/c3-walnut-wood-01-normal-300594b0.webp.webp",
+      "width": 237,
+      "height": 256
+    },
+    "textures/backgammon-board-web/c3-walnut-wood-01-rough-a51c2ff3.webp": {
+      "inputHash": "d2f82f4653861e47",
+      "file": "thumbnails/textures/backgammon-board-web/c3-walnut-wood-01-rough-a51c2ff3.webp.webp",
+      "width": 237,
+      "height": 256
+    },
+    "textures/backgammon-board-web/c8-wood-05-diff-37c67fc0.webp": {
+      "inputHash": "6016ddd018d0a2dd",
+      "file": "thumbnails/textures/backgammon-board-web/c8-wood-05-diff-37c67fc0.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/backgammon-board-web/c8-wood-05-norm-1f168eab.webp": {
+      "inputHash": "5c8ac01feaf669df",
+      "file": "thumbnails/textures/backgammon-board-web/c8-wood-05-norm-1f168eab.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/backgammon-board-web/c8-wood-05-rough-a2f4e8be.webp": {
+      "inputHash": "2b9f1972c7af49f1",
+      "file": "thumbnails/textures/backgammon-board-web/c8-wood-05-rough-a2f4e8be.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/backgammon-board-web/metallic-roughness-534cea53.webp": {
+      "inputHash": "2e7c076ab8cb7f75",
+      "file": "thumbnails/textures/backgammon-board-web/metallic-roughness-534cea53.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/backgammon-board-web/normal-59e9cf22.webp": {
+      "inputHash": "3cec201c6bb1ad5e",
+      "file": "thumbnails/textures/backgammon-board-web/normal-59e9cf22.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/backgammon-board-web/substance-leather-calf-grain-metallic-substance-leather-calf-grain-roughness-8b4279b1.webp": {
+      "inputHash": "25a9ce88e282b5e8",
+      "file": "thumbnails/textures/backgammon-board-web/substance-leather-calf-grain-metallic-substance-leather-calf-grain-roughness-8b4279b1.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/backgammon-board-web/substance-leather-calf-grain-normal-236ef027.webp": {
+      "inputHash": "4b479fac02fb2218",
+      "file": "thumbnails/textures/backgammon-board-web/substance-leather-calf-grain-normal-236ef027.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/backgammon-checker-dark-web/bgm-leatherblack-basecolor-b095b64c.webp": {
+      "inputHash": "c65b38df2e210bb0",
+      "file": "thumbnails/textures/backgammon-checker-dark-web/bgm-leatherblack-basecolor-b095b64c.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/backgammon-checker-dark-web/bl-leather-metallic-jpg-bl-leather-roughness-jpg-8b453286.webp": {
+      "inputHash": "c1570782444a1943",
+      "file": "thumbnails/textures/backgammon-checker-dark-web/bl-leather-metallic-jpg-bl-leather-roughness-jpg-8b453286.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/backgammon-checker-dark-web/bl-leather-normal-278c6c8e.webp": {
+      "inputHash": "fb3c2bc7b04610f0",
+      "file": "thumbnails/textures/backgammon-checker-dark-web/bl-leather-normal-278c6c8e.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/backgammon-checker-light-web/bgm-leatherwhite-basecolor-c4c97943.webp": {
+      "inputHash": "d2c85da4d1d6de90",
+      "file": "thumbnails/textures/backgammon-checker-light-web/bgm-leatherwhite-basecolor-c4c97943.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/backgammon-checker-light-web/substance-leather-calf-grain-metallic-jpg-substance-leather-calf-grain-roughness-jpg-e4d3a42d.webp": {
+      "inputHash": "ae7d6562cd0d8a86",
+      "file": "thumbnails/textures/backgammon-checker-light-web/substance-leather-calf-grain-metallic-jpg-substance-leather-calf-grain-roughness-jpg-e4d3a42d.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/backgammon-checker-light-web/substance-leather-calf-grain-normal-3fc76f0c.webp": {
+      "inputHash": "7e129a945b86bb04",
+      "file": "thumbnails/textures/backgammon-checker-light-web/substance-leather-calf-grain-normal-3fc76f0c.webp.webp",
+      "width": 256,
+      "height": 256
+    }
+  }
+}
