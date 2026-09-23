@@ -2,10 +2,11 @@
   "schemaVersion": "1.0",
   "id": "backgammon",
   "name": "Backgammon",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "type": "game-pack",
   "entry": {
-    "setup": "setup.json"
+    "setup": "setup.json",
+    "script": "scripts/main.js"
   },
   "assets": [
     "media/cover-thumb.webp",
