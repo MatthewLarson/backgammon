@@ -87,7 +87,7 @@
       "height": 256
     },
     "models/backgammon-doubling-cube.web.glb": {
-      "inputHash": "b6d4896872d7cabc",
+      "inputHash": "3d212bb650f32069",
       "file": "thumbnails/models/backgammon-doubling-cube.web.glb.webp",
       "width": 256,
       "height": 256
@@ -107,6 +107,12 @@
     "originals/backgammon-checker-light.web.glb": {
       "inputHash": "bb46e8694964b517",
       "file": "thumbnails/originals/backgammon-checker-light.web.glb.webp",
+      "width": 256,
+      "height": 256
+    },
+    "originals/backgammon-doubling-cube.web.glb": {
+      "inputHash": "9750b4abf4114f7a",
+      "file": "thumbnails/originals/backgammon-doubling-cube.web.glb.webp",
       "width": 256,
       "height": 256
     },
