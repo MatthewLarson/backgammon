@@ -88,5 +88,11 @@
         "signedName": "Matt Larson"
       }
     }
+  ],
+  "dice": [
+    {
+      "preset": "die-d6",
+      "defaultCount": 2
+    }
   ]
 }
