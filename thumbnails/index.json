@@ -69,19 +69,19 @@
       "height": 256
     },
     "models/backgammon-board.web.glb": {
-      "inputHash": "3a92ce2b27f80df3",
+      "inputHash": "4c053f99c08e4dd9",
       "file": "thumbnails/models/backgammon-board.web.glb.webp",
       "width": 256,
       "height": 256
     },
     "models/backgammon-checker-dark.web.glb": {
-      "inputHash": "2d955bf72cbe7716",
+      "inputHash": "c912da921d213d4d",
       "file": "thumbnails/models/backgammon-checker-dark.web.glb.webp",
       "width": 256,
       "height": 256
     },
     "models/backgammon-checker-light.web.glb": {
-      "inputHash": "5aa769505a33cfca",
+      "inputHash": "7e800f5c8ec948b9",
       "file": "thumbnails/models/backgammon-checker-light.web.glb.webp",
       "width": 256,
       "height": 256
@@ -89,6 +89,24 @@
     "models/backgammon-doubling-cube.web.glb": {
       "inputHash": "b6d4896872d7cabc",
       "file": "thumbnails/models/backgammon-doubling-cube.web.glb.webp",
+      "width": 256,
+      "height": 256
+    },
+    "originals/backgammon-board.web.glb": {
+      "inputHash": "8449dd5a95216d63",
+      "file": "thumbnails/originals/backgammon-board.web.glb.webp",
+      "width": 256,
+      "height": 256
+    },
+    "originals/backgammon-checker-dark.web.glb": {
+      "inputHash": "bfce4ec3e83e8623",
+      "file": "thumbnails/originals/backgammon-checker-dark.web.glb.webp",
+      "width": 256,
+      "height": 256
+    },
+    "originals/backgammon-checker-light.web.glb": {
+      "inputHash": "bb46e8694964b517",
+      "file": "thumbnails/originals/backgammon-checker-light.web.glb.webp",
       "width": 256,
       "height": 256
     },
