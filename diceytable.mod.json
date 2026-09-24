@@ -2,7 +2,7 @@
   "schemaVersion": "1.0",
   "id": "backgammon",
   "name": "Backgammon",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "type": "game-pack",
   "entry": {
     "setup": "setup.json",
@@ -15,6 +15,9 @@
     "media/screenshot-1.webp",
     "media/screenshot-2.webp",
     "media/screenshot-3.webp",
+    "media/screenshot-4.webp",
+    "media/screenshot-5.webp",
+    "media/screenshot-6.webp",
     "models/backgammon-board.collider.glb",
     "models/backgammon-board.web.glb",
     "models/backgammon-board.web.meta.json",
@@ -104,20 +107,6 @@
       }
     },
     {
-      "id": "credit-ce77ffb6-1448-44ea-8939-c3e9c6daae50",
-      "paths": [
-        "media/cover-thumb.webp",
-        "media/cover.webp"
-      ],
-      "origin": "own-work",
-      "recordedAt": "2026-09-23T20:22:45.868Z",
-      "attestation": {
-        "termsVersion": "2026-09-07.1",
-        "acceptedAt": "2026-09-23T20:22:45.868Z",
-        "signedName": "Matt Larson"
-      }
-    },
-    {
       "id": "credit-7e033082-b48f-4672-9b8e-38e28f521519",
       "paths": [
         "media/screenshot-0.webp",
@@ -132,6 +121,35 @@
         "acceptedAt": "2026-09-23T20:23:22.715Z",
         "signedName": "Matt Larson"
       }
+    },
+    {
+      "id": "credit-79c9289a-9a6a-48ad-bd50-79d8781c2e77",
+      "paths": [
+        "media/cover-thumb.webp",
+        "media/cover.webp"
+      ],
+      "origin": "own-work",
+      "recordedAt": "2026-09-24T01:09:09.172Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-24T01:09:09.172Z",
+        "signedName": "Matt Larson"
+      }
+    },
+    {
+      "id": "credit-27dfa6ff-f3de-4415-b64d-f9f0d6e46b81",
+      "paths": [
+        "media/screenshot-4.webp",
+        "media/screenshot-5.webp",
+        "media/screenshot-6.webp"
+      ],
+      "origin": "own-work",
+      "recordedAt": "2026-09-24T01:09:30.160Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-24T01:09:30.160Z",
+        "signedName": "Matt Larson"
+      }
     }
   ],
   "dice": [
@@ -141,11 +159,47 @@
     }
   ],
   "slug": "backgammon",
-  "summary": "Backgammon",
-  "description": "Backgammon",
+  "summary": "Classic Strategy and Excitement",
+  "description": "## Play Backgammon Online on DiceyTable\n\nExperience the classic strategy and excitement of **Backgammon online at [DiceyTable.com](http://DiceyTable.com)**. One of the world’s oldest and most enduring board games, Backgammon combines clever positioning, calculated risk, and the unpredictability of the dice. Race your checkers around the board, block your opponent’s progress, hit exposed pieces, and be the first player to **bear off all 15 checkers**. Every roll creates a new decision, making each match fast-moving, competitive, and different from the last.\n\nBackgammon is easy to learn but packed with strategic depth. Build strong points, create blocks, escape trapped checkers, and decide when to play aggressively or protect your position. A lucky roll can change the momentum of a game, but smart players know how to turn the odds in their favor. Whether you're discovering the **rules of Backgammon** for the first time or you're an experienced player looking for a quick match, DiceyTable makes it easy to jump in and play.\n\nGather a friend and enjoy a timeless **two-player Backgammon game** right from your browser. DiceyTable brings classic tabletop gaming online with a polished, easy-to-use experience designed for casual games, friendly rivalries, and those inevitable *“one more match”* moments. Roll the dice, move your checkers, race for home, and see who can claim the board on [**DiceyTable.com**](http://DiceyTable.com).",
   "category": "board-game",
   "coverImage": "media/cover.webp",
   "screenshots": [
+    {
+      "path": "media/screenshot-4.webp",
+      "crop": {
+        "x": 0,
+        "y": 0.0002656748140275611,
+        "w": 1,
+        "h": 0.9994686503719449
+      },
+      "title": "Backgammon - Free 2 Player Multiplayer",
+      "alt": "Backgammon - 2 Players",
+      "kind": "marketing"
+    },
+    {
+      "path": "media/screenshot-5.webp",
+      "crop": {
+        "x": 0,
+        "y": 0.0002656748140275611,
+        "w": 1,
+        "h": 0.9994686503719449
+      },
+      "title": "The Heart of Backgammon",
+      "alt": "The Heart of Backgammon",
+      "kind": "marketing"
+    },
+    {
+      "path": "media/screenshot-6.webp",
+      "crop": {
+        "x": 0,
+        "y": 0.0002656748140275611,
+        "w": 1,
+        "h": 0.9994686503719449
+      },
+      "title": "Backgammon - Classic. Competitive. Addictive.",
+      "alt": "Backgammon - Classic. Competitive. Addictive.",
+      "kind": "marketing"
+    },
     {
       "path": "media/screenshot-0.webp",
       "crop": {
@@ -153,7 +207,10 @@
         "y": 0.09999999999999987,
         "w": 1,
         "h": 0.9000000000000001
-      }
+      },
+      "title": "Backgammon Checkers",
+      "alt": "Backgammon Checkers",
+      "kind": "component"
     },
     {
       "path": "media/screenshot-1.webp",
@@ -162,7 +219,10 @@
         "y": 0.09999999999999987,
         "w": 1,
         "h": 0.9000000000000001
-      }
+      },
+      "title": "Backgammon Lanes",
+      "alt": "Backgammon Lanes",
+      "kind": "component"
     },
     {
       "path": "media/screenshot-2.webp",
@@ -171,7 +231,10 @@
         "y": 0,
         "w": 1,
         "h": 0.9000000000000001
-      }
+      },
+      "title": "Backgammon Checker Slots",
+      "alt": "Backgammon Checker Slots",
+      "kind": "component"
     },
     {
       "path": "media/screenshot-3.webp",
@@ -180,7 +243,31 @@
         "y": 0.09999999999999987,
         "w": 1,
         "h": 0.9000000000000001
+      },
+      "title": "Backgammon Board",
+      "alt": "Backgammon Board",
+      "kind": "component"
+    }
+  ],
+  "players": {
+    "min": 2,
+    "max": 2
+  },
+  "rules": [
+    {
+      "kind": "video",
+      "id": "video",
+      "title": "How to Play Backgammon",
+      "video": {
+        "provider": "youtube",
+        "id": "KDvvKWi0ijs"
       }
+    },
+    {
+      "kind": "link",
+      "id": "link",
+      "title": "Backgammon Basics: How to Play",
+      "url": "https://usbgf.org/backgammon-basics-how-to-play/"
     }
   ]
 }
